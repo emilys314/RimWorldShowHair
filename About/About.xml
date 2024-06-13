@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <!-- Must contain a dot; usually <author>.<modname> -->
+    <name>Show Hair Under Stuff</name>
+    <author>Raccoon Cuddler</author>
+    <packageId>RaccoonCuddler.ShowHair</packageId>
+
+    <description>
+Prevent your pawn from going bald when wearing a hat.
+
+2 features:
+- Show hair under "Upper HeadGear" (like hats)
+- Show hair and beards under "Full HeadGear" (like marine armor helmets)
+
+Each one is on by default, but they can individually be turned off.
+    </description>
+
+    <!-- Game versions this mod supports. More on game versions later. -->
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>

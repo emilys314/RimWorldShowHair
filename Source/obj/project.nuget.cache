@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3/bvKBgolJdwRyNDB3byDclyefVGf/UOIIMSeaT5T/KAWn+k0w3eAKXOpx/a0G9Vguf/oKhBB/JKgb5syWWnw==",
+  "success": true,
+  "projectFilePath": "/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/ShowHair.csproj",
+  "expectedPackageFiles": [
+    "/home/emily/.nuget/packages/lib.harmony/2.3.1/lib.harmony.2.3.1.nupkg.sha512",
+    "/home/emily/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/emily/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

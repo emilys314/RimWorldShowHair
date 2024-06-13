@@ -1,0 +1,8 @@
+/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Assemblies/ShowHair.dll
+/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/obj/Debug/net472/ShowHair.csproj.AssemblyReference.cache
+/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/obj/Debug/net472/ShowHair.GeneratedMSBuildEditorConfig.editorconfig
+/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/obj/Debug/net472/ShowHair.AssemblyInfoInputs.cache
+/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/obj/Debug/net472/ShowHair.AssemblyInfo.cs
+/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/obj/Debug/net472/ShowHair.csproj.CoreCompileInputs.cache
+/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/obj/Debug/net472/ShowHair.csproj.CopyComplete
+/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/obj/Debug/net472/ShowHair.dll

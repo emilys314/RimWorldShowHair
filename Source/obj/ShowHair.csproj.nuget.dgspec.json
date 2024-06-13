@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/ShowHair.csproj": {}
+  },
+  "projects": {
+    "/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/ShowHair.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/ShowHair.csproj",
+        "projectName": "ShowHair",
+        "projectPath": "/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/ShowHair.csproj",
+        "packagesPath": "/home/emily/.nuget/packages/",
+        "outputPath": "/home/emily/.local/share/Steam/steamapps/common/RimWorld/Mods/EmShowHair/Source/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/home/emily/.local/share/godot/mono/GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/emily/.nuget/NuGet/NuGet.Config",
+          "/home/emily/.nuget/NuGet/config/Godot.Offline.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Lib.Harmony": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
